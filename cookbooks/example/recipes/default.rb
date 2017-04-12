@@ -6,3 +6,4 @@ log "Welcome to Chef, #{node["example"]["name"]}!" do
 end
 
 # For more information, see the documentation: https://docs.chef.io/recipes.html
+
